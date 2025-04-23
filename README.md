@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**ashouy/ashouy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with industrial softwares focused on the oil sector.
+- 🌱 I’m currently learning project pratices  and design patterns on Java ecosystem.
+- 👯 I’m looking to collaborate on open source projects or private projects.
+- 🤔 I’m looking for help with strategies to add new tecnologies to legacy projects.
+- 💬 Ask me about my projects
+- 🗣️ Languages: Português | English
+- 📫 How to reach me:
+  - joaopaulokad@gmail.com
+  - https://www.linkedin.com/in/jo%C3%A3o-paulo-santos-6290b1160/
+- ⚡ Fun fact: like cyberpunk books (neuromancer, blade runner, etc ...)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
